@@ -81,3 +81,4 @@ while running:
     draw_chessboard()
     place_pieces(screen, images, board)
     pygame.display.flip()
+    #Delete this line, just testing on steam deck
