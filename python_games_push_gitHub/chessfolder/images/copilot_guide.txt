@@ -1,0 +1,134 @@
+Be my teacher in python: Create a step by step tutorial
+for creating a game using python and kivy. So I can use
+the game on my Android phone. The game should be made in
+pygame and it should be a chess game were I can play against
+ someone on my phone. just give me one task and give me a new
+ one when im finished with the one before.
+
+
+Your `main_chess.py` file looks good. You have successfully created the chessboard. Let's move on to the next task.
+
+### Task 3: Add Chess Pieces
+
+Now that you have the chessboard, let's add the chess pieces. Follow these steps:
+
+1. **Load Chess Piece Images**: Download or create images for each chess piece (king, queen, bishop, knight, rook, and pawn for both black and white). Save these images in a directory named `images` within your project directory.
+
+2. **Create a Function to Load Images**: Write a function to load these images.
+
+3. **Place the Pieces on the Board**: Create a function to place the pieces in their initial positions on the board.
+
+Here is the code to get you started:
+
+```python
+import pygame
+import sys
+
+# Initialize Pygame
+pygame.init()
+
+# Set up the display
+screen = pygame.display.set_mode((800, 800))
+pygame.display.set_caption("Chessboard")
+
+# Define colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+
+# Load images
+def load_images():
+    pieces = ['king', 'queen', 'bishop', 'knight', 'rook', 'pawn']
+    colors = ['white', 'black']
+    images = {}
+    for color in colors:
+        for piece in pieces:
+            images[f'{color}_{piece}'] = pygame.image.load(f'images/{color}_{piece}.png')
+    return images
+
+# Draw the chessboard
+def draw_chessboard():
+    block_size = 100  # Set the size of the grid block
+    for x in range(0, 800, block_size):
+        for y in range(0, 800, block_size):
+            rect = pygame.Rect(x, y, block_size, block_size)
+            if (x + y) // block_size % 2 == 0:
+                pygame.draw.rect(screen, WHITE, rect)
+            else:
+                pygame.draw.rect(screen, BLACK, rect)
+
+# Place pieces on the board
+def place_pieces(screen, images):
+    # Example positions for pawns
+    for i in range(8):
+        screen.blit(images['white_pawn'], (i * 100, 6 * 100))
+        screen.blit(images['black_pawn'], (i * 100, 1 * 100))
+    # Add other pieces similarly
+
+# Main loop
+running = True
+images = load_images()
+while running:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            pygame.quit()
+            sys.exit()
+
+    draw_chessboard()
+    place_pieces(screen, images)
+    pygame.display.flip()
+```
+
+### Steps to Follow:
+1. Download or create images for each chess piece and save them in the `images` directory.
+2. Copy and paste the provided code into `main_chess.py`.
+3. Run the script to see the chess pieces on the board.
+
+Once you have completed these steps, let me know, and we will move on to the next task.
+
+
+Task 2: Create the Chessboard
+Now that your development environment is set up, let's start by creating the chessboard. Follow these steps:
+Create a new Python file: Create a new file named main_chess.py in your project directory.
+Initialize Pygame: Set up the basic Pygame window and initialize the Pygame library.
+Draw the Chessboard: Create a function to draw an 8x8 chessboard.
+Here is the code to get you started:
+
+
+
+
+
+
+import pygame
+import sys
+
+# Initialize Pygame
+pygame.init()
+
+# Set up the display
+screen = pygame.display.set_mode((800, 800))
+pygame.display.set_caption("Chessboard")
+
+# Define colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+
+def draw_chessboard():
+    block_size = 100  # Set the size of the grid block
+    for x in range(0, 800, block_size):
+        for y in range(0, 800, block_size):
+            rect = pygame.Rect(x, y, block_size, block_size)
+            if (x + y) // block_size % 2 == 0:
+                pygame.draw.rect(screen, WHITE, rect)
+            else:
+                pygame.draw.rect(screen, BLACK, rect)
+
+# Main loop
+running = True
+while running:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            pygame.quit()
+            sys.exit()
+
+    draw_chessboard()
+    pygame.display.flip()
