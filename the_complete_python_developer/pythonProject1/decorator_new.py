@@ -5,6 +5,7 @@ def my_decorator(func):
         print("******************")
     return wrap_func
 
+
 def hello():
     print("hellloooooooooo")
 
