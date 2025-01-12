@@ -1,15 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
 def hello(func):
     func()
 
