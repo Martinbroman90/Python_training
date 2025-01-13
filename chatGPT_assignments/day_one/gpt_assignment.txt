@@ -1,0 +1,26 @@
+PRINT "What's your favorite fruit?"
+GET fruit (from user)
+
+IF fruit == "banana":
+    PRINT "Bananas are awesome!"
+ELIF fruit == "strawberry":
+    PRINT "Strawberries for the win!"
+ELSE:
+    PRINT "Interesting choice!"
+
+PRINT "Give me a number:"
+GET number (as an integer)
+
+IF number % 2 == 0:
+    PRINT "That's even."
+ELSE:
+    PRINT "That's odd."
+
+PRINT "Thanks for playing!"
+#If the fruit is "banana", print Bananas are awesome!
+#If the fruit is "strawberry", print Strawberries for the win!
+#Otherwise, print Interesting choice!
+#Ask the user for a number.
+#If the number is even, print That’s even.
+#If it’s odd, print That’s odd.
+#Finally, print Thanks for playing
