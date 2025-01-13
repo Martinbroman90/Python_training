@@ -1,26 +1,98 @@
-PRINT "What's your favorite fruit?"
-GET fruit (from user)
 
-IF fruit == "banana":
-    PRINT "Bananas are awesome!"
-ELIF fruit == "strawberry":
-    PRINT "Strawberries for the win!"
-ELSE:
-    PRINT "Interesting choice!"
+# Python Junior Developer Study Plan
+# Task 1: Zoo Management System (OOP & Classes)
 
-PRINT "Give me a number:"
-GET number (as an integer)
+## Overview:
+This task will help you practice **Object-Oriented Programming (OOP)** concepts in Python by creating a simple Zoo Management System. You will define classes, work with attributes and methods, and use basic list operations.
 
-IF number % 2 == 0:
-    PRINT "That's even."
-ELSE:
-    PRINT "That's odd."
+---
+## 🔧 Task Description:
+You need to create a **Zoo Management System** with two classes: `Animal` and `Zoo`.
 
-PRINT "Thanks for playing!"
-#If the fruit is "banana", print Bananas are awesome!
-#If the fruit is "strawberry", print Strawberries for the win!
-#Otherwise, print Interesting choice!
-#Ask the user for a number.
-#If the number is even, print That’s even.
-#If it’s odd, print That’s odd.
-#Finally, print Thanks for playing
+1️⃣ **Animal Class**
+- Attributes:
+  - `name` (string) - Name of the animal
+  - `species` (string) - Species of the animal
+  - `hunger_level` (integer) - Starts at 5
+
+- Methods:
+  - `feed()` - Reduces hunger_level by 1 (minimum value is 0)
+  - `status()` - Prints the animal's name, species, and hunger_level
+
+2️⃣ **Zoo Class**
+- Attributes:
+  - A list to store multiple Animal objects
+
+- Methods:
+  - `add_animal()` - Adds an Animal object to the list
+  - `feed_animal(name)` - Feeds an animal by name
+  - `show_status()` - Prints the status of all animals in the zoo
+
+---
+## 💡 Example Usage:
+```python
+# Create a Zoo
+zoo = Zoo()
+
+# Add animals
+zoo.add_animal(Animal("Leo", "Lion"))
+zoo.add_animal(Animal("Ellie", "Elephant"))
+
+# Feed an animal
+zoo.feed_animal("Leo")
+
+# Check zoo status
+zoo.show_status()
+```
+
+---
+## 📄 Pseudocode:
+```
+1. Create a class called Animal:
+   - __init__(self, name, species):
+       - Set self.name to name
+       - Set self.species to species
+       - Set self.hunger_level to 5
+
+   - Method: feed(self)
+       - Reduce hunger_level by 1 (don't let it go below 0)
+
+   - Method: status(self)
+       - Print the animal's name, species, and hunger_level
+
+2. Create a class called Zoo:
+   - __init__(self):
+       - Create an empty list to hold animals
+
+   - Method: add_animal(self, animal)
+       - Add the animal to the list
+
+   - Method: feed_animal(self, name)
+       - Find the animal by name and call its feed() method
+
+   - Method: show_status(self)
+       - Loop through all animals and call their status() method
+```
+
+---
+## ✅ What You Need to Do:
+1. Create the `Animal` class with the attributes and methods described.
+2. Create the `Zoo` class with the attributes and methods described.
+3. Write the example usage in a separate file and test your implementation.
+
+---
+## 📋 Checklist:
+- [ ] Create the `Animal` class with attributes and methods.
+- [ ] Create the `Zoo` class with a list to hold animals.
+- [ ] Implement the methods to add, feed, and show the status of animals.
+
+---
+## 🎥 Recommended Resources (Check the Chat for Links):
+1. Python OOP Crash Course - Corey Schafer (YouTube)
+2. Object-Oriented Programming Explained - Programming with Mosh (YouTube)
+3. Python Classes and Objects - Tech With Tim (YouTube)
+4. Real Python - Object-Oriented Programming in Python (Article)
+5. Official Python Documentation - Classes (Documentation)
+
+---
+Once you’re done with this task, let me know, and I’ll give you the next one!
