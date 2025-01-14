@@ -1,0 +1,27 @@
+# Uppgift 1: Enkel Skatteuträknare
+# =======================================
+# Pseudokod:
+# 1. Be användaren att mata in sin bruttolön (innan skatt).
+# 2. Räkna ut nettolönen genom att dra av 30 % skatt.
+# 3. Skriv ut bruttolönen och nettolönen på ett tydligt sätt.
+
+# Steg 1: Be användaren mata in sin bruttolön
+bruttolon = float(input("Ange din bruttolön i SEK: "))
+
+# Steg 2: Räkna ut nettolönen efter 30 % skatt
+skatt_procent = 0.30
+nettolon = bruttolon * (1 - skatt_procent)
+
+# Steg 3: Skriv ut resultatet
+print("\n--- Skatteuträkning ---")
+print(f"Bruttolön: {bruttolon:.2f} SEK")
+print(f"Nettolön efter skatt: {nettolon:.2f} SEK")
+
+# Tips:
+# Om du vill kontrollera om dina uträkningar stämmer, testa att mata in olika löner och se om resultaten är rimliga.
+# Om något inte fungerar, läs felmeddelandet och försök att förstå vad som gick fel.
+
+# När du är klar:
+# 1. Kör koden och se till att du får rätt resultat.
+# 2. Om något ser fel ut, rätta till det och kör om.
+# 3. Fråga mig om du vill ha tips eller om du behöver hjälp! :)

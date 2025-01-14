@@ -1,4 +1,4 @@
 import random
 
 def get_computer_choice():
-  #  hiberbee theme
+    return random.choice(["rock", "paper", "scissors"])
