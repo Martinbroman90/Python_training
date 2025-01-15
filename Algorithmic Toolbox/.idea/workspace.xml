@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2983dfb-5751-4cc9-a9ff-04f39d2bbf96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Algorithmic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/fibonacci_number_again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/fibonacci_number_again_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/table1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/table2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/fibonacci_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/fibonacci_number_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/gcd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/gcd_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/last_digit_of_fibonacci_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/last_digit_of_fibonacci_number_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/last_digit_of_the_sum_of_fibonacci_numbers_again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/last_digit_of_the_sum_of_fibonacci_numbers_again_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/last_digit_of_the_sum_of_fibonacci_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/last_digit_of_the_sum_of_fibonacci_numbers_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/last_digit_of_the_sum_of_squares_of_fibonacci_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/last_digit_of_the_sum_of_squares_of_fibonacci_numbers_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/lcm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/lcm_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Binary Search/binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Binary Search/binary_search_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Binary Search/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Binary Search/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Binary Search/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Closest Points/closest_points.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Closest Points/closest_points_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Closest Points/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Closest Points/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Closest Points/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/quicksort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/quicksort_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Majority Element/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Majority Element/majority_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Majority Element/majority_element_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Majority Element/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Majority Element/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Organizing a Lottery/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Organizing a Lottery/organizing_lottery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Organizing a Lottery/organizing_lottery_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Organizing a Lottery/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide-and-Conquer/Organizing a Lottery/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/edit_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/edit_distance_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Three Sequences/lcs3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Three Sequences/lcs3_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Three Sequences/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Three Sequences/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Three Sequences/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Two Sequences/lcs2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Two Sequences/lcs2_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Two Sequences/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Two Sequences/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Two Sequences/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/maximum_gold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/maximum_gold_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/arithmetic_expression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/arithmetic_expression_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Money Change Again/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Money Change Again/money_change_again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Money Change Again/money_change_again_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Money Change Again/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Money Change Again/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Partitioning Souvenirs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Partitioning Souvenirs/partition_souvenirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Partitioning Souvenirs/partition_souvenirs_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Partitioning Souvenirs/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Partitioning Souvenirs/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/primitive_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/primitive_calculator_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Car Fueling/car_fueling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Car Fueling/car_fueling_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Car Fueling/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Car Fueling/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Car Fueling/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/collecting_signatures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/collecting_signatures_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/maximum_ad_revenue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/maximum_ad_revenue_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/maximum_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/maximum_salary_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/maximum_loot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/maximum_loot_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Money Change/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Money Change/money_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Money Change/money_change_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Money Change/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithms/Money Change/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/maximum_pairwise_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/maximum_pairwise_product_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/sum_of_two_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/sum_of_two_digits_unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutorialHell/Tutorial_hell.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tutorialHell/Tutorial_hell.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/fibonacci_number_again.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/fibonacci_number_again_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/fibonacci_number.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/fibonacci_number_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/gcd.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/gcd_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/last_digit_of_fibonacci_number.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/last_digit_of_fibonacci_number_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/last_digit_of_the_sum_of_fibonacci_numbers_again.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/last_digit_of_the_sum_of_fibonacci_numbers_again_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/last_digit_of_the_sum_of_fibonacci_numbers.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/last_digit_of_the_sum_of_fibonacci_numbers_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/last_digit_of_the_sum_of_squares_of_fibonacci_numbers.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/last_digit_of_the_sum_of_squares_of_fibonacci_numbers_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/lcm.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/lcm_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Binary Search/binary_search.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Binary Search/binary_search_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Binary Search/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Closest Points/closest_points.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Closest Points/closest_points_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Closest Points/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/quicksort.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/quicksort_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Majority Element/majority_element.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Majority Element/majority_element_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Majority Element/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Organizing a Lottery/organizing_lottery.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Organizing a Lottery/organizing_lottery_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Divide-and-Conquer/Organizing a Lottery/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Edit Distance/edit_distance.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Edit Distance/edit_distance_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Edit Distance/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Three Sequences/lcs3.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Three Sequences/lcs3_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Three Sequences/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Two Sequences/lcs2.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Two Sequences/lcs2_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Longest Common Subsequence of Two Sequences/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/maximum_gold.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/maximum_gold_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/arithmetic_expression.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/arithmetic_expression_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Money Change Again/money_change_again.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Money Change Again/money_change_again_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Money Change Again/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Partitioning Souvenirs/partition_souvenirs.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Partitioning Souvenirs/partition_souvenirs_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Partitioning Souvenirs/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/primitive_calculator.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/primitive_calculator_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Car Fueling/car_fueling.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Car Fueling/car_fueling_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Car Fueling/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/collecting_signatures.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/collecting_signatures_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/maximum_ad_revenue.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/maximum_ad_revenue_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/maximum_salary.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/maximum_salary_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/maximum_loot.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/maximum_loot_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Money Change/money_change.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Money Change/money_change_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Greedy Algorithms/Money Change/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/maximum_pairwise_product.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/maximum_pairwise_product_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/sum_of_two_digits.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/sum_of_two_digits_unit_tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/tests.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2rdSjjxL0rGjvmbDzIoBJ0u8xpu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Edu.LearningObjectsStorageType&quot;: &quot;SQLite&quot;,
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;Python.sum_of_two_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Run Study Tests.Programming Challenges\\Sum of Two Digits.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.textmate.bundles&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="sum_of_two_digits" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Algorithmic Toolbox" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Challenges/Sum of Two Digits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/sum_of_two_digits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2983dfb-5751-4cc9-a9ff-04f39d2bbf96" name="Changes" comment="" />
+      <created>1736887595712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736887595712</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
