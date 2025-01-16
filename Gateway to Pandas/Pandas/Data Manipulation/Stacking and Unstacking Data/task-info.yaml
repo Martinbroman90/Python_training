@@ -1,0 +1,48 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 309
+        length: 11
+        placeholder_text: "# YOUR CODE"
+        initial_state:
+          length: 11
+          offset: 309
+        initialized_from_dependency: false
+        encrypted_possible_answer: lTYL/TOGwIIWW4EMJu57VXDVoiZvLK1hJmgBiUKDaqO9jWfLe/sy+QafjI56IgYnVjVTmHlTwecK7jAxQNz8zDpfgVqE2XtBYjuHEIPtoDk=
+        selected: false
+        status: Unchecked
+      - offset: 422
+        length: 11
+        placeholder_text: "# YOUR CODE"
+        initial_state:
+          length: 11
+          offset: 422
+        initialized_from_dependency: false
+        encrypted_possible_answer: CkR0kCpMzVoaOUTNxccGSvBNbMSmDU5wS5YDau6rCy8=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: stack_unstack.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: stack_unstack_dark.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: picture_source.tex
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

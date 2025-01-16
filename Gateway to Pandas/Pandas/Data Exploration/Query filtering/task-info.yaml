@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 432
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 432
+        initialized_from_dependency: false
+        encrypted_possible_answer: DqEZ36uqpzWOvJepRmeuEvbs1cejKgTQqXX/YOsX6L80Hbu/LhYbDzl/yH43MdefqjuE20Mfo+s6kOXIylL/uXQanYA/hCCN7sAEiYgV3TaWijR2HnU0t6lkX2afs+j/M2PXfUMRnVqPFfMPIi7JmZm+X65jbMKZm81s99SAwkr88NrIxZd6YPADvrn+xmYr
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

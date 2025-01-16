@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 709
+        length: 11
+        placeholder_text: "# YOUR CODE"
+        initial_state:
+          length: 11
+          offset: 709
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3a4XFaGG1i7O0EX+PAPMK+BU/FKWooiOHmz7F1OlRejSaS3Tk+cBQyc2Rc/8mIRXmhYFCzyg6IUpXh6t5gAfOLbtWDt6Vj8I3HPtW79zT89Onnw0gizuPCZLdL09zh5kMl5tSksF+xcUXeQvSk81WrxcsIGDFeM7EzjxvuJCBo5gnYXFJN4oSBADljHLOsFoy8TspdMRkhusM2LldJK4bISnNz8RiAdtrVuhcEgc/MLNyo+q0OTDEH/1C62mfUxy51SBCloouij95C+1e2YdFQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

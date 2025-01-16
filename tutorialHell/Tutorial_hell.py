@@ -1,12 +1,7 @@
 import random
 
 def get_computer_choice():
-    def get_computer_choice():
-        pass
     return random.choice(["rock", "paper", "scissors"])
-
-
-    return random.choice(['rock', 'paper', 'scissors'])
 
 def determine_winner(user_choice, computer_choice):
     if user_choice == computer_choice:
@@ -59,7 +54,4 @@ def play_game():
 if __name__ == "__main__":
     print("Welcome to Rock Paper Scissors!")
     print("Best of 3 rounds. First to win 2 rounds wins the game.")
-    play_game() ?")
-
-name = "calle"
-calle = name
+    play_game()

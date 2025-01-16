@@ -1,0 +1,53 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 702
+        length: 11
+        placeholder_text: "# YOUR CODE"
+        initial_state:
+          length: 11
+          offset: 702
+        initialized_from_dependency: false
+        encrypted_possible_answer: syGKbP4yMI5/+yNpJzHH9YUxoLmRL7fBnWwYeLGlhktwWauudKC4ftnANzPiQ8Zr
+        selected: false
+        status: Unchecked
+      - offset: 767
+        length: 11
+        placeholder_text: "# YOUR CODE"
+        initial_state:
+          length: 11
+          offset: 767
+        initialized_from_dependency: false
+        encrypted_possible_answer: IdiNQtkHFX3fbkjEaJtpMSl1eJxTBDcs1JVOsh6YGFSQz0NKFAI5BQUDF7g+tx2x
+        selected: false
+        status: Unchecked
+      - offset: 816
+        length: 11
+        placeholder_text: "# YOUR CODE"
+        initial_state:
+          length: 11
+          offset: 816
+        initialized_from_dependency: false
+        encrypted_possible_answer: rKAV4BzrdG8OZVujDOlVagaSwz0XKlLFySdve1sDPRZRM3j96TkHSun18TiQJKdQ
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: licenses.csv
+    visible: true
+    learner_created: false
+  - name: import_stats.csv
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,30 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 82
+        length: 39
+        placeholder_text: "# TODO: read csv to pandas DataFrame df"
+        initial_state:
+          length: 39
+          offset: 82
+        initialized_from_dependency: false
+        encrypted_possible_answer: Jtm6ikv/LBHM9de2q40ilvF2re++K9ambxL0OtfB/CfCx3gtQRL08OQIMaPasI/hWDBKvBU/KbnCZ7UNV4MdZA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: somedata.csv
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

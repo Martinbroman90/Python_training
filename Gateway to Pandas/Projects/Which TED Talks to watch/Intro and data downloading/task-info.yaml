@@ -1,0 +1,17 @@
+type: theory
+files:
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: main.py
+    visible: true
+    learner_created: false
+  - name: main.ipynb
+    visible: true
+    learner_created: false
+  - name: ted_main.csv
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

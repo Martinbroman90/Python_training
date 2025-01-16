@@ -1,0 +1,37 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 295
+        length: 30
+        placeholder_text: "# add 'Month cost' column here"
+        initial_state:
+          length: 30
+          offset: 295
+        initialized_from_dependency: false
+        encrypted_possible_answer: VafyLKjQmYzy+GVulO9V8O7KYiJzfSKcEYeQEWtNiaw=
+        selected: false
+        status: Unchecked
+      - offset: 370
+        length: 44
+        placeholder_text: "# add 'Annual cost in thousands' column here"
+        initial_state:
+          length: 44
+          offset: 370
+        initialized_from_dependency: false
+        encrypted_possible_answer: AgGkLPcYasH13/TkHkVteH0veDHeMyJdKW60hTwPe04A1a0FACr1qmwUz2DC4makZlCD9QjztlPaZMqBjvHx7A==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

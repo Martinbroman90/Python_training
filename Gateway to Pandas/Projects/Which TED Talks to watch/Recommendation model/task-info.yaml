@@ -1,0 +1,47 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 606
+        length: 40
+        placeholder_text: "# YOUR CODE, compute cosine_similarities"
+        initial_state:
+          length: 40
+          offset: 606
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2b38wN3l0nv//lQIJucj83ZaBJLtIzdzkBK0T9I1hFVUSDnoIh5M4c5VOtd3Lgm1
+        selected: false
+        status: Unchecked
+      - offset: 1101
+        length: 11
+        placeholder_text: "# YOUR CODE"
+        initial_state:
+          length: 11
+          offset: 1101
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4bfNVa1whvQvL/j5GlSSWFr8lZEwuBuvPu8/wt6qe+c=
+        selected: false
+        status: Unchecked
+      - offset: 1148
+        length: 11
+        placeholder_text: "# YOUR CODE"
+        initial_state:
+          length: 11
+          offset: 1148
+        initialized_from_dependency: false
+        encrypted_possible_answer: gRduDUQpYUyKrg+MkuqwdTt7w3V0kIjEe+e775ZKBZXfX7Z8sldgpgdL5rC9VyqP
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

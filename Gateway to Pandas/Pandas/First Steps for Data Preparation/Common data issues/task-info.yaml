@@ -1,0 +1,49 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 316
+        length: 44
+        placeholder_text: "# Remove duplicates based on the 'ID' column"
+        initial_state:
+          length: 44
+          offset: 316
+        initialized_from_dependency: false
+        encrypted_possible_answer: EhYIWr7OGbVrnnbyoErzNguPNH8fK91yoHgAKTnt8PTdJg+H6C0jdR4KPg8fB8yD
+        selected: false
+        status: Unchecked
+      - offset: 383
+        length: 97
+        placeholder_text: "# Identify and handle missing values in the 'Age' column, replacing\
+      \ the gaps with the column mean"
+        initial_state:
+          length: 97
+          offset: 383
+        initialized_from_dependency: false
+        encrypted_possible_answer: hj5vt68AKpeOUHfQhorlZ8LP72Dg6Aigm10ep0G/z1Wc701dEYpJFp/tQJ+ulfy+PqVLALli7uy9MF+wJ+MixlQT5HPZGLzfHcvXHladihgMd7DZlWCJYvf6nHeRPrVs9/uQG/nva4wBUqeEAe3y2Q==
+        selected: false
+        status: Unchecked
+      - offset: 518
+        length: 82
+        placeholder_text: "# Correct inconsistencies in the 'Height' column by converting\
+      \ all values to float"
+        initial_state:
+          length: 82
+          offset: 518
+        initialized_from_dependency: false
+        encrypted_possible_answer: FCwszRc8+a9+M4IGxrx+Li0pxhCGsBvBudsmOlEXNYfDogeujBfDuhbiZ1DGojoo7AZhFolrSbiHeaccuSThot0Ypx/NkCA7DgKDaXZN1GQuczbV0BIPkILlga1dcjpU1hU9hMqr2Znr+3CARJsRsw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

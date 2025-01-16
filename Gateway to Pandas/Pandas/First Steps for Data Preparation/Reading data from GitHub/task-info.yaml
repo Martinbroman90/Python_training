@@ -1,0 +1,47 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 869
+        length: 56
+        placeholder_text: "# Download data from GitHub and load it into a DataFrame"
+        initial_state:
+          length: 56
+          offset: 869
+        initialized_from_dependency: false
+        encrypted_possible_answer: Ug+f0F2sJDwutYa5S7O8gcjOXdxEdYQnPFsiskdJSGSrTqYjXU5QfpJbVwgWH7DN
+        selected: false
+        status: Unchecked
+      - offset: 975
+        length: 43
+        placeholder_text: "# Display the first 5 rows of the DataFrame"
+        initial_state:
+          length: 43
+          offset: 975
+        initialized_from_dependency: false
+        encrypted_possible_answer: AdFHkytHRFttooqV+4KrvNHWRNpN8R9/ca528KWVYZs=
+        selected: false
+        status: Unchecked
+      - offset: 1063
+        length: 36
+        placeholder_text: "# Display the shape of the DataFrame"
+        initial_state:
+          length: 36
+          offset: 1063
+        initialized_from_dependency: false
+        encrypted_possible_answer: hohiV0pslDTaZmZED3CMeg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
